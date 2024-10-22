@@ -11,7 +11,7 @@
   <img align="center" alt="js" src="https://aleen42.github.io/badges/src/reddit.svg" />
 </div><br/>
 
-💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 estudante aprendendo a fazer codigo, e no momento como editar coisas aqui.
 
 ### Últimos videos:
 - [nome do video](link)<br/>
