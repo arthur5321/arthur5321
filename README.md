@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur Matos 🖐️
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/c/sujeitoprogramador](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 [![Twitch](link)
 
 ## Tecnologias que eu uso no meu dia
