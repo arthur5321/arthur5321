@@ -24,6 +24,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
+## ESTASTISTICAS
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur5321&show_icons=true&theme=radical)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
