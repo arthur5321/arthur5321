@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur Matos 🖐️
 
-[![Youtube](link)
+[![Youtube]([link](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 [![Twitch](link)
 
 ## Tecnologias que eu uso no meu dia
